@@ -31,14 +31,17 @@ The objectives for this assignment is:
 
 ### Running the tests
 
-> **Important**
+> [!NOTE]
+> 
+> This project requires:
+> - Node.js version 22 or higher
+> - npm or yarn as package manager
 >
-> Make sure you have Node.js (v22.x) installed on your machine. 
->
->You can download it [here](https://nodejs.org/).
->
->Or alternatively, you can use [nvm](https://github.com/nvm-sh/nvm) to manage your Node.js versions.
-
+> You can download Node.js from [nodejs.org](https://nodejs.org/)
+> 
+> OR
+> 
+> Use [nvm](https://github.com/nvm-sh/nvm) to manage your Node.js versions.
 
 You can run all the tests by following these steps:
 
