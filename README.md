@@ -35,7 +35,7 @@ The objectives for this assignment is:
 > 
 > This project requires:
 > - Node.js version 22 or higher
-> - npm or yarn as package manager
+> - npm as package manager
 >
 > You can download Node.js from [nodejs.org](https://nodejs.org/)
 > 
