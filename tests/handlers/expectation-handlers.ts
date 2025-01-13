@@ -7,12 +7,12 @@
  * Provides a cleaner error message when comparing arrays in tests
  */
 export const expectArraysToBeEqual = (actual: number[], expected: number[]) => {
-  try {
-    expect(actual).toEqual(expected);
-  } catch (error) {
-    throw new Error(
-      `Expected: [${expected.join(', ')}]\n` +
-      `Actual:   [${actual.join(', ')}]`
-    );
-  }
+    try {
+        expect(actual).toEqual(expected);
+    } catch (error) {
+        throw new Error(
+            `Expected: [${expected.join(', ')}]\n` +
+            `Actual:   [${actual.join(', ')}]`
+        );
+    }
 }; 
