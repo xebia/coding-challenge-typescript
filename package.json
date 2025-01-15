@@ -9,7 +9,7 @@
     "test:watch": "jest --watch"
   },
   "engines": {
-    "node": ">=22.x"
+    "node": ">=16.x"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
